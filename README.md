@@ -1,7 +1,5 @@
 # Airbags-Recommendation
 
-![image](https://github.com/MainakRepositor/Airbags-Recommendation/assets/64016811/dd41f38c-5b7d-4794-89de-901516282765)
-![image](https://github.com/MainakRepositor/Airbags-Recommendation/assets/64016811/49c0c217-7aad-439e-bea3-72661e746c58)
 
 **About**
 
